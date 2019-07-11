@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  great_music = ["RATM", "Queens of the Stone Age", "Bruce Springsteen", "Miles Davis"]
 end
 
 def add_element_to_end_of_array(array, element)
